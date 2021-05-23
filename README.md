@@ -4,11 +4,11 @@ Projeto criado em um dos cursos de React da Alura para aprender sobre como a bib
 
 Nele aprendi: <br />
 
-A criar class components dentro do React;
-A como passar informações entre os componentes;
-Como o "this" funciona dentro do Javascript;
-Sobre o ciclo de vida dos componentes React;
-A diferença entre Statefull e Stateless components.
+- A criar class components dentro do React;
+- A como passar informações entre os componentes;
+- Como o "this" funciona dentro do Javascript;
+- Sobre o ciclo de vida dos componentes React;
+- A diferença entre Statefull e Stateless components.
 
 # Overview
 

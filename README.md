@@ -1,14 +1,14 @@
 # Notas
 
-Projeto criado em um dos cursos de React da Alura para aprender sobre como a biblioteca funciona e ciclo de vida dos componentes. <br />
+Project created in one of Alura's React courses to learn about how the library works and component lifecycle. <br />
 
-Nele aprendi: <br />
+In it I learned: <br />
 
-- A criar class components dentro do React;
-- A como passar informações entre os componentes;
-- Como o "this" funciona dentro do Javascript;
-- Sobre o ciclo de vida dos componentes React;
-- A diferença entre Statefull e Stateless components.
+- How to create class components within React;
+- How to pass information between components;
+- How "this" works within Javascript;
+- About the life cycle of React components;
+- The difference between Statefull and Stateless components.
 
 # Overview
 
@@ -22,7 +22,9 @@ $ git clone https://github.com/velleeda/Notas
 
 # Go to the directory
 $ cd Notas
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
